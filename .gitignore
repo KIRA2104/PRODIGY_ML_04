@@ -1,0 +1,9 @@
+.DS_Store
+gesture_model.h5
+label_encoder.pkl
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+__pycache__/
